@@ -1,3 +1,4 @@
+package genericClasses;
 
 public class ListDriver {
 
@@ -7,7 +8,7 @@ public class ListDriver {
         gList.add("apples");
         gList.add("cakes");
 
-        System.out.println("Grocery List: " + gList.toString());
+        System.out.println("Grocery genericClasses.List: " + gList.toString());
 
         //now add a new list to show the generic capability of the class
 
@@ -16,7 +17,7 @@ public class ListDriver {
         iList.add(2);
         iList.add(3);
 
-        System.out.println("Integer List: " + iList.toString());
+        System.out.println("Integer genericClasses.List: " + iList.toString());
 
     }
 }

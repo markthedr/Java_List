@@ -1,3 +1,4 @@
+package genericInterfaces;
 
 public class StringList<T> implements IList<T>{
 

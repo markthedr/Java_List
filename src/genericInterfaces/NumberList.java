@@ -1,3 +1,4 @@
+package genericInterfaces;
 
 public class NumberList<T> implements IList<T>{
 

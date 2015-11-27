@@ -1,4 +1,4 @@
-//have the T there that is a place holder where the data type will be used later on.
+package genericClasses;//have the T there that is a place holder where the data type will be used later on.
 
 public class List<T> {
     private T[] datastore; //we know its going to be an array but it's not a data type.

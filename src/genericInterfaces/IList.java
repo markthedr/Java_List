@@ -1,3 +1,4 @@
+package genericInterfaces;
 
 public interface IList<T> {
     //type place holders are used.
